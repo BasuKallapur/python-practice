@@ -172,5 +172,17 @@ else:
         a= a//16
 print(f"hexadecimal equivalent is {hexadecimal}")
 
+hex_map = "0123456789ABCDEF"
+
+
+# #Accessing an element using index
+# remainder = 15
+# hex_char = hex_map[remainder]
+# print(f"Character at index {remainder} is {hex_char}")  # Output: 'F'
+# # Finding the index of an element
+# char = 'C'
+# index = hex_map.index(char)
+# print(f"Index of character '{char}' is {index}")  # Output: 12
+
     
 
